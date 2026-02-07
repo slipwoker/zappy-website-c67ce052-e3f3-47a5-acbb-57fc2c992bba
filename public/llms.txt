@@ -1,0 +1,85 @@
+# Geek — Generative Engine Optimization Map
+
+> A טכנולוגיה/גיקים business.
+
+---
+
+## Pages
+
+### Home
+https://geek-c67ce052.zappy5.app
+
+### About
+https://geek-c67ce052.zappy5.app/about
+
+### Services
+https://geek-c67ce052.zappy5.app/services
+
+### Contact
+https://geek-c67ce052.zappy5.app/contact
+
+### Products
+https://geek-c67ce052.zappy5.app/products
+המוצרים שלנו - Geek
+
+### Cart
+https://geek-c67ce052.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://geek-c67ce052.zappy5.app/checkout
+תשלום
+
+### Login
+https://geek-c67ce052.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://geek-c67ce052.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://geek-c67ce052.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://geek-c67ce052.zappy5.app/product/:slug
+פרטי המוצר - Geek
+
+### Category
+https://geek-c67ce052.zappy5.app/category/:slug
+מוצרים - Geek
+
+## Legal & Policy
+
+### Privacy Policy
+https://geek-c67ce052.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://geek-c67ce052.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://geek-c67ce052.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Geek
+Geek is a business in the טכנולוגיה/גיקים industry.
+
+## Target Audience
+גיקים
+
+## Industry
+טכנולוגיה/גיקים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://geek-c67ce052.zappy5.app/sitemap.xml
+- **Robots.txt**: https://geek-c67ce052.zappy5.app/robots.txt
